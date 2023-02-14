@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"how to run a docker image\""
+    }
+  }
+}
